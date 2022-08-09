@@ -2,11 +2,11 @@
 
  ### Seja Bem vindo ao meu perfil  ^_^
 
--📝 Estou atualmente estudando:
+- Estou atualmente estudando: <br>
       - Java <br>
       - React Native <br>
       
-- Tenho Experiência em:
+- Tenho Experiência em: <br>
       - Html <br>
       - Css <br>
       - JavaScript <br>
@@ -17,7 +17,7 @@
       - Mysql <br>
       - Lógica de Programação <br>
       
--🎩 Pronomes: ele/dele
+- Pronomes: ele/dele
 
 ##
 
