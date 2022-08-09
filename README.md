@@ -2,7 +2,21 @@
 
  ### Seja Bem vindo ao meu perfil  ^_^
 
--📝 Estou atualmente estudando html <br> 
+-📝 Estou atualmente estudando:
+      - Java <br>
+      - React Native <br>
+      
+- Tenho Experiência em:
+      - Html <br>
+      - Css <br>
+      - JavaScript <br>
+      - React.js <br>
+      - Node.Js <br>
+      - Bootstrap <br>
+      - PHP
+      - Mysql
+      - Lógica de Programação
+      
 -🎩 Pronomes: ele/dele
 
 ##
