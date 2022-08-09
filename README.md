@@ -17,7 +17,7 @@
       - Mysql <br>
       - Lógica de Programação <br>
       
-- Pronomes: ele/dele
+- Pronomes: Ele/Dele
 
 ##
 
