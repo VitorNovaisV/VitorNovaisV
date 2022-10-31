@@ -3,7 +3,6 @@
  ### Seja Bem vindo ao meu perfil  ^_^
 
 - Estou atualmente estudando: <br>
-      - Java <br>
       - React Native <br>
       
 - Tenho Experiência em: <br>
