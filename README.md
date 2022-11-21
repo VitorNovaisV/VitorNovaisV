@@ -1,7 +1,10 @@
-# Olá! Eu sou o Vitor!✌ 
 
- ### Seja Bem vindo ao meu perfil  ^_^
 
+ # Seja Bem vindo!  ^_^
+ 
+Olá, sou Vitor, tenho 20 anos, venho estudando programação a 2 anos e estou a procura do meu primeiro emprego na área de desenvolvimento de software.
+Nesse período de tempo, o maior desafio que enfrentei foi o desenvolvimento do protótipo de um E-commerce, liderando uma equipe com 4 pessoas, que a única coisa 
+que tinham era garra para aprender.
 - Estou atualmente estudando: <br>
       - React Native <br>
       
