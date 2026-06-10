@@ -2,21 +2,26 @@
 
  # Seja Bem vindo!  ^_^
  
-Olá, sou Vitor, tenho 20 anos, venho estudando programação a 2 anos e estou a procura do meu primeiro emprego na área de desenvolvimento de software.
-Nesse período de tempo, o maior desafio que enfrentei foi o desenvolvimento do protótipo de um E-commerce, liderando uma equipe com 4 pessoas, que a única coisa 
-que tinham era garra para aprender.
+Olá, sou Vitor, tenho 23 anos, venho estudando programação e estou buscando atuar na área de desenvolvimento de software.
+
 - Estou atualmente estudando: <br>
-      - React Native <br>
+      - Angular.js <br>
       
 - Tenho Experiência em: <br>
       - Html <br>
       - Css <br>
       - JavaScript <br>
+      - TypeScript <br>
       - React.js <br>
+      - Angular.js <br>
       - Node.Js <br>
       - Bootstrap <br>
       - PHP <br>
       - Mysql <br>
+      - Postgres <br>
+      - Supabase <br>
+      - Java <br>
+      - Spring <br>
       - Lógica de Programação <br>
       
 - Pronomes: Ele/Dele
